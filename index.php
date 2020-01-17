@@ -9,7 +9,7 @@
     {
         return in_array($id, $_SESSION["favorite"]);
     }
-
+// Nouveau commantaire
 ?>
 
 
